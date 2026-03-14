@@ -1,0 +1,15 @@
+{
+  "appId": "eu.comp121.nutrisnap",
+  "appName": "NutriSnap",
+  "webDir": "src",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 3000,
+      "launchAutoHide": true,
+      "backgroundColor": "#ffffffff",
+      "androidSplashResourceName": "splash",
+      "androidScaleType": "CENTER_CROP"
+    }
+  }
+}
